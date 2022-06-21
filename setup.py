@@ -26,7 +26,7 @@ setup(
     name="practical-tsa",
     version=get_version("ptsa/__init__.py"),
     description="Classical and DL-based Time Series Analysis, "
-                "with pretty visualizations in the browser.",
+    "with pretty visualizations in the browser.",
     long_description=get_long_description(),
     long_description_content_type="text/markdown",
     packages=["ptsa"],
